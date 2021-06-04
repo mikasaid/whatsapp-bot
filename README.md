@@ -1,4 +1,2 @@
-interface ICard {
-  boardId: string;
-  cardId: string;
-}
+wpu-resolusi
+Repository untuk menyimpan rencana WPU kedepannya
