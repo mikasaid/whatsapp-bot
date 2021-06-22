@@ -1,3 +1,4 @@
+Kernel sources
 500Hz tick rate
 EFI Stub supports
 Lz4 compressed bzImage
